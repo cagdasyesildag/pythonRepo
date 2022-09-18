@@ -1,0 +1,15 @@
+{
+  "console": "Playstation 5",
+  "games": ["Spiderman", "God of War"],
+  "controller": [
+    {
+      "name": "DualShock",
+      "price": "60"
+    },
+    {
+      "name": "DualSense",
+      "price": "100",
+      "error": "vuhuhu error"
+    }
+  ]
+}
